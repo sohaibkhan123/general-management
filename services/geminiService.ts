@@ -1,7 +1,7 @@
 import { GoogleGenAI, Type } from "@google/genai";
 import { Project, AIAnalysisResult, ProjectField } from "../types";
 
-const apiKey = process.env.API_KEY || '';
+const apiKey = process.env.API_KEY || 'AIzaSyDZNh0_bBLNXPd-IXKTKrDpp0YeCjReEB4';
 const ai = new GoogleGenAI({ apiKey });
 
 // Suggest fields based on industry and description
