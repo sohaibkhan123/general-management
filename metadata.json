@@ -1,0 +1,5 @@
+{
+  "name": "TrackFlow AI",
+  "description": "A universal project tracking application capable of adapting to any industry workflow (Construction, Electrical, Software, etc.). Features custom workflow definition, daily progress logging, visualization dashboards, and Gemini-powered progress analysis.",
+  "requestFramePermissions": []
+}
